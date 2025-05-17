@@ -18,4 +18,4 @@ I'm an aspiring Data Scientist passionate about turning data into insights. I en
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/aditya-shetty-0930b22b1/)
-- 📧 adityashetty2804@gmail.com
+- [Gmail📧](adityashetty2804@gmail.com)
